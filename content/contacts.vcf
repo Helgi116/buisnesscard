@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Олег Дикий
+N:Дикий;Олег;;;
+item1.EMAIL;TYPE=INTERNET:oleg.dikii@domru.ru
+item1.X-ABLabel:
+item2.TEL:+7 906 300-30-10
+item2.X-ABLabel:
+item3.ADR:;;ул. Рабочая\, 145а;Саратов;;410012;RU;ул. Рабочая\, 145а\nСарат
+ ов\nRU\n410012
+item3.X-ABLabel:
+item4.ORG:Дом.ru Бизнес
+item4.X-ABLabel:
+item5.TITLE:Менеджер отдела продаж корпоративным клиентам
+item5.X-ABLabel:
+item6.URL:http\://b2b.domru.ru/
+item6.X-ABLabel:
+PHOTO:https://lh4.googleusercontent.com/-o-kSgLxJ4Vo/XxyzETqyIkI/AAAAAAAAAA
+ A/lsCtTV2WPIkcOsugmkEcjHt04WE-k5HIwCOQCEAE/photo.jpg
+CATEGORIES:myContacts
+END:VCARD

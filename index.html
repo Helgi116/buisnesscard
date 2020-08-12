@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8">
+        <title>Добавить контакт</title>
+        <link rel="shortcut icon" href="IMG/favicon.ico" type="image/png">
+        <link rel="stylesheet" href="styles/reset.css">
+        <link rel="stylesheet" href="styles/style.css">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap" rel="stylesheet">
+        <script defer src="script.js"></script>
+    </head>
+    <body>
+        <main>
+            <img class="logo" src="IMG/1572497471385.png" alt="logo"><br>
+            <span>АО «ЭР-Телеком Холдинг»</span><br>
+            <span class="bold">Дикий Олег</span><br>
+            Менеджер отдела продаж корпоративным клиентам<br>
+            Моб.: <a href="tel:+79063003010">+7 (906) 300 30 10</a><br>
+            Тел.: <a href="tel:+78452746555">+7 (8452) 74 65 55</a> вн. 46193<br>
+            <a href="mailto:oleg.dikii@domru.ru">oleg.dikii@domru.ru</a><br>
+            ул. Рабочая, 145а,<br> 
+            г. Саратов, 410012<br>
+            <a href='www.saratov.b2b.domru.ru'>www.saratov.b2b.domru.ru</a><br>
+			<span>Добавьте номер в контакты:</span><br>
+            <button id="btn-download"> <a href="content/contacts.vcf" download> <span>Скачать визитку</span></a></button>
+		
+			<button id="btn-scan"><span>Отсканировать QR код</span></button>
+            <div id="gap" class="gap hide">
+				<img class="qr" src="IMG/qr-code.png" alt="qr-code">
+            </div>          
+        </main>
+    </body>
+</html>
